@@ -1,0 +1,237 @@
+_id,date,status,name_of_firm,dunsnumber,address_line_1,address_line_2,city,state,zip,full_address,phone_no,fax,email,company_website,e-commerce_website,contact_person,county_code,congressional_district,metropolitan_statistical_area,cage_code,year_established,accepts_govt_credit_card,gsa_advantage_contract,legal_structure,ownership_and_self_certifications,current_principals,business_development_servicing_office,8(a)_case_number,8(b)_entrance_date,8(c)_exit_date,is_hubzone_certified,jv entrance date,jv_exit_date,is_wosb_certified,is_edwosb_certified,non_federal_government_certifications,capabilities_narrative,special_equipment_materials,business_type_percentages,construction_bonding_level_per_contract,construction_bonding_level_aggregate,service_bonding_level_per_contract,service_bonding_level_aggregate,primarynaicscode,primarynaicscodedescription,additionalnaicscode,good_keywords,quality_assurance_standards,is_electronic_data_interchange_capable,is_exporter,export_business_activities,exporting_to,desired_export_business_relationships,description_of_export_objectives,performance_history_references
+P2247299,09/16/2020,Active,PENNANT MARINE SERVICES INCORPORATED,035179887,8000 STRATFORD DRIVE,,IRVINGTON,AL,36544-4120,"8000 STRATFORD DRIVE,IRVINGTON,AL,36544-4120",251-206-5256,,jkrause@pennantmarine.com,www.pennantmarine.com,,Charles Krause,097,01,5160,7YKZ1,2016,Yes,,Subchapter S Corporation,,,ALABAMA DISTRICT OFFICE (SBA office code 0459),,,,No,,,No,No,,,,,,,,,811310,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance,"['811211', '811219']",,,,,,,,,
+P0706708,02/13/2020,Active,"DAVISON FUELS, INC.",832142348,8450 TANNER WILLIAMS RD,,MOBILE,AL,36608-8316,"8450 TANNER WILLIAMS RD,MOBILE,AL,36608-8316",251-633-4446 x222,251-639-4755,todd@davisonfuels.com,www.davisonfuels.com,,TODD DAVISON DAVISON,097,01,5160,478S4,1999,Yes,,Subchapter S Corporation,Self-Certified Small Disadvantaged Business,,ALABAMA DISTRICT OFFICE (SBA office code 0459),,,,No,,,No,No,,,,,,,,,424720,Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals),['324110'],,,,,,,,,
+P0834690,03/31/2020,Active,Southern Truck & Equipment Inc,199856881,6630 Boykin Rd,,Theodore,AL,36582-3900,"6630 Boykin Rd,Theodore,AL,36582-3900",251-653-4716,,bmsmith@mchsi.com,,,Brian M Smith,097,01,5160,4MX12,1987,Yes,,Subchapter S Corporation,Self-Certified Small Disadvantaged Business,,ALABAMA DISTRICT OFFICE (SBA office code 0459),,,,No,,,No,No,,,,,,,,,531130,"Lessors of Miniwarehouses and Self-Storage Units
+General $27.50m Small Business Size Standard: [Yes]
+Special $38.50m Leasing of Building Space to the Federal Government by Owners: [Yes]",,,,,,,,,,
+P1525464,02/27/2020,Active,"M.A. BAHETH CONSTRUCTION COMPANY, INC.",968193297,307 N UNIVERSITY BLVD,,MOBILE,AL,36688-0001,"307 N UNIVERSITY BLVD,MOBILE,AL,36688-0001",251-345-1060,251-380-9004,aec@brdl-ltd.com,,http://aec@brdl-ltd.com,Arbuties E. Cotton,097,01,5160,6E3C9,1976,No,,,"Black American, Other Minority Owned, Self-Certified Small Disadvantaged Business, Economically Disadvantaged Women-Owned Small Business, Women-Owned Small Business, Woman Owned",,ALABAMA DISTRICT OFFICE (SBA office code 0459),,,,No,,,No,No,,,,,$0,$0,$0,$0,237990,"Other Heavy and Civil Engineering Construction
+General $36.50m Small Business Size Standard: [Yes]
+Special $27.50m Dredging and Surface Cleanup Activities: [Yes] (4)","['237310', '238910', '562119']",HEAVY CONSTRUCTION,,,,,,,,
+P2563002,12/03/2020,Active,BAY NURSING INC,029830186,62 MIDTOWN PARK E,,MOBILE,AL,36606-4140,"62 MIDTOWN PARK E,MOBILE,AL,36606-4140",251-471-3343,,TIMMATTOX@BAYNURSING.COM,,,Tim mattox,097,01,5160,8T1E5,1997,Yes,,,Self-Certified Small Disadvantaged Business,,ALABAMA DISTRICT OFFICE (SBA office code 0459),,,,No,,,No,No,,,,,,,,,621610,Home Health Care Services,,,,,,,,,,
+P2423465,12/01/2020,Active,BROTHER & BROTHERS TRUCKING LLC,113967503,59 GULF ST,,CHICKASAW,AL,36611-2503,"59 GULF ST,CHICKASAW,AL,36611-2503",251-721-5811,,Jermainedickinson5@gmail.com,,,Jermaine Dickinson,097,01,5160,8G8K3,2019,No,,,"Black American, Other Minority Owned",,ALABAMA DISTRICT OFFICE (SBA office code 0459),,,,No,,,No,No,,,,,,,,,813990,"Other Similar Organizations (except Business, Professional, Labor, and Political Organizations)","['484110', '813930', '813940']",,,,,,,,,
+P1155249,04/29/2020,Active,"SOUTHERN GAS AND SUPPLY, INC.",098277242,5500 E RITE RD,,THEODORE,AL,36582-0000,"5500 E RITE RD,THEODORE,AL,36582-0000",251-654-0080,251-654-0091,kevin.kennedy@gasandsupply.com,http://www.gasandsupply.com,,Kevin Kennedy,097,01,5160,5SFK7,2001,Yes,,,,,ALABAMA DISTRICT OFFICE (SBA office code 0459),,,,No,,,No,No,,,,,,,,,325120,Industrial Gas Manufacturing,"['332312', '332710']",,,,,,,,,
+P2418756,01/21/2021,Active,"W&S HOLDINGS, LLC",065096585,21180 STATE HIGHWAY 181 STE A,,FAIRHOPE,AL,36532-7453,"21180 STATE HIGHWAY 181 STE A,FAIRHOPE,AL,36532-7453",251-583-0308,,wagner.ronnie@gmail.com,,,Ronnie Wagner,003,01,5160,8FN73,2012,Yes,,LLC,Self-Certified Small Disadvantaged Business,,ALABAMA DISTRICT OFFICE (SBA office code 0459),,,,No,,,No,No,,,,,,,,,531120,"Lessors of Nonresidential Buildings (except Miniwarehouses)
+General $27.50m Small Business Size Standard: [Yes]
+Special $38.50m Leasing of Building Space to the Federal Government by Owners: [Yes] (4)",['531130'],,,,,,,,,
+P0336228,10/08/2020,Active,"Anderson & Associates, Inc.",093180628,3715 Lakeside Dr S,,Mobile,AL,36693-5155,"3715 Lakeside Dr S,Mobile,AL,36693-5155",251-660-1414,251-660-1416,wsephton@andersonandassoc.com,andersonandassoc.com,,WENDY SEPHTON,097,01,5160,3C2A7,1978,No,,Subchapter S Corporation,Self-Certified Small Disadvantaged Business,"1. David Milam, President
+2. Buddy Roberts, Vice President",ALABAMA DISTRICT OFFICE (SBA office code 0459),,,,No,,,No,No,"Licensed Roofing
+Licensed Siding","Wholesale distributor of Architectural Metal Products, including building envelope and building specialties.","Metal Roofing, Metal Siding, Commercial/Industrial Fiberglass Reinforced Siding and Roofing, Architectural Specialties, Aluminum Composite Siding, Insulated Metal Panels","Construction (90 %)
+Service (10 %)",$0,$0,$0,$0,423330,"Roofing, Siding, and Insulation Material Merchant Wholesalers","['238160', '238170', '332311', '332322', '423390']","Metal Roofing, Metal Wall Panels, ACM, Metal Decking, Metal Bldg Component, Exp Joint Covers, Aluminum Canopies, Radius Metal Panels, Manufactured Coping, Architectural Column Covers",,,No,,,,,
+P0922659,01/11/2021,Active,"S. J. & L., INC.",104125943,4591 CYPRESS BUSINESS PARK DR,,MOBILE,AL,36619-9550,"4591 CYPRESS BUSINESS PARK DR,MOBILE,AL,36619-9550",251-661-7926 x226,251-660-8364,cory@sjlcontractors.com,http://www.sjlcontractors.com,,Cory B Holcomb,097,01,5160,4YAJ6,1978,No,,Subchapter S Corporation,Self-Certified Small Disadvantaged Business,"1. MICHAEL B. TEW, CEO
+2. JEFFREY W RODE, VP",ALABAMA DISTRICT OFFICE (SBA office code 0459),,,,No,,,No,No,,"For over thirty three years, S J & L, Inc. has been Southwest Alabama’s best choice for heavy civil construction, utilities and site development. Please visit our website at www.sjlcontractors.com to learn more about us.",,"Construction (95 %)
+Service (5 %)","$5,000,000","$10,000,000","$2,000,000","$4,000,000",624230,Emergency and Other Relief Services,"['236210', '236220', '237110', '237210', '237310', '237990', '238910']","SITE, WATER, SEWER, PAVING, ROADS, DRAINAGE, HORIZONTAL BORES, EARTHWORK, PARKING LOTS, CURB, SIDEWALK, TRAFFIC CONTROL, EROSION CONTROL",,,No,,,,,"Name: GRAY CONSTRUCTION
+Contract: NICK WALTER
+Start: 07/16/2008
+End: 09/01/2009
+Value: 9,200,000
+Contact: NICK WALTER
+Phone: 205-380-1834"
+P0691146,03/07/2020,Active,"Integrated Electronic Technologies, Inc.",040222585,4324 Midmost Dr Ste 203,,Mobile,AL,36609-5522,"4324 Midmost Dr Ste 203,Mobile,AL,36609-5522",251-338-6023,251-272-1975,dgantt@ietcompanies.com,http://www.ietCompanies.com,,Don Gantt,097,01,5160,45PW7,2000,Yes,,,Woman Owned,"1. Sandra Hughes, President",ALABAMA DISTRICT OFFICE (SBA office code 0459),,,,No,,,No,No,,"Sell and install security equipment for commercial, industrial and government customers.",,,$0,$0,$0,$0,561621,Security Systems Services (except Locksmiths),"['221114', '237130', '238210', '238290', '238990', '332710', '334511', '335312', '423430', '423610', '512110', '515210', '517410', '517911', '517919', '519130', '561622', '624221', '624230', '811211', '811212', '811213', '811219']","security, alarm, intercom, cctv, surveillance, access control, audio, video",,,Yes,"Manufacturer, Distributor/Agent, Retailer, Service(s)","Anguilla; Belize; Gambia, The; Panama",Direct export sales,"sell, install and service high end surveillance and security equipment.",
+P0343886,02/22/2020,Active,"AMERICAN TANK & VESSEL, INC.",078039237,1005 GOVERNMENT ST,,MOBILE,AL,36604-2437,"1005 GOVERNMENT ST,MOBILE,AL,36604-2437",251-432-8265,251-433-3661,wjcutts@atvmob.com,http://www.at-v.com,http://www.at-v.com,WILLIAM J CUTTS,097,01,5160,3X821,1982,No,,,,"1. William J. Cutts, CEO
+2. James W. Davidson, Dir., Vice President - Operations
+3. William T. Cutts, Dir., Vice President - Regional Manager
+4. Thomas F. Bentley, Dir., Vice President - Estimating
+5. Ken Odom, Vice President - Finance",ALABAMA DISTRICT OFFICE (SBA office code 0459),,,,No,,,No,No,"ASME Sec VIII
+1&2
+ASME U Stamp
+ASME U2 Stamp
+ASME R Stamp","Steel Storage Tanks: (ALL types/materials) API-620,650. 650S, 653, AWWA D100 including Floating roofs, low-temp and low pressure tanks. Pressure Vessels: (All types/materials) ASME Sec VIII, Div 1 & 2, U, U2 and R stamps. Including Spheres and Towers.","Plate rolls, heavy-walled plate forming and dishing machines, angle rolls, pipe rolls, welding machines, overhead cranes, stress-relieving furnace, filed erection cranes and gear, long-haul trucks, Rail siding and deep port access.","Construction (33 %)
+Manufacturing (49 %)
+Research and Development (3 %)
+Service (15 %)","$15,000,000","$25,000,000",$0,"$25,000,000",332420,Metal Tank (Heavy Gauge) Manufacturing,"['236210', '236220', '237120', '332313', '336419']","stainless steel tank, tanks, vessels, steel vessel, spheres, aluminum alloy tanks, gasholders, ASME, towers, reactor tank, digester, coke drum, water tank, silo, bin, hopper, cp system, wind tunnel, double wall tank, pressure vessel, API-650 tank, API-650S, API-650, API-620",,,Yes,Manufacturer,Ghana,Contract manufacturing,"Design, fabricate and export large steel costume equipment for industrial or marine use.","Name: BE&K
+Contract: 01-0184-C0009
+Start: 11/29/2001
+End: 08/28/2002
+Value: $515,678.27
+Contact: David Mayfield
+Phone: 205-972-6541
+
+
+Name: BOC Gases
+Contract: 8042CON0001
+Start: 01/25/2001
+End: 05/14/2002
+Value: $1,482,385.07
+Contact: Jim Zaccaro
+Phone: 908-771-6020
+
+
+Name: Unocal
+Contract: 151-BMT-434-M
+Start: 05/02/2001
+End: 09/11/2002
+Value: $3,406,701.49
+Contact: Walley Guidry
+Phone: 409-724-3207
+
+
+Name: Pro-Quip Corporation
+Contract: PQ70-23984
+Start: 04/01/2001
+End: 02/01/2002
+Value: $1,663,144.10
+Contact: Bill Dennis
+Phone: 918-250-8522
+
+
+Name: Department of Energy/Fluor Fernald
+Contract: FWOR-SC624-00-0056
+Start: 04/01/2000
+End: 09/01/2001
+Value: $1,758,410.08
+Contact: Rick Holbrook
+Phone: 513-648-4622
+
+
+Name: Bell Constructors
+Contract: C92170
+Start: 01/01/2000
+End: 12/01/2002
+Value: $1,300,500.78
+Contact: Andy Carayiannis
+Phone: 585-277-1000
+
+
+Name: U. S. Army Corps of Engineers
+Contract: DACA01-97-C-0078
+Start: 10/05/1997
+End: 04/01/1999
+Value: $6,657,246.00
+Contact: Willard Williams
+Phone: 941-454-3370
+
+
+Name: Engineering Field Activity Southeast
+Contract: N62467-95-C-1019
+Start: 06/14/1998
+End: 10/31/2002
+Value: $4,090,330.15
+Contact: Don Gillis
+Phone: 904-509-8788
+
+
+Name: U. S. Government/CMC Construction
+Contract: F5-2681-01-S01-1035
+Start: 06/14/2002
+End: 09/18/2002
+Value: $367,850.05
+Contact: Rex Armstrong
+Phone: 865-482-3999
+
+
+Name: Stolthaven New Orleans, LLC
+Contract: 179470C
+Start: 07/19/2000
+End: 03/23/2001
+Value: $6,502,209.00
+Contact: Ron Lubbe
+Phone: 504-682-9784"
+P2283785,07/01/2020,Active,"Lewis Communications, Inc.",058218173,1668 GOVERNMENT ST,,Mobile,AL,36604-1109,"1668 GOVERNMENT ST,Mobile,AL,36604-1109",205-980-0774,,tripp@lewiscommunications.com,www.lewiscommunications.com,https://www.lewiscommunications.com,Tripp Lewis,097,01,5160,1KJ76,1951,No,,,Self-Certified Small Disadvantaged Business,"1. Larry D. Norris, President / CEO",ALABAMA DISTRICT OFFICE (SBA office code 0459),,,,No,,,No,No,,"Lewis Communications is a 67-year-old, communications and branding agency that achieves measurable results by specializing in strategic content creation for all media. During our early years, Lewis mainly worked on local and regional accounts throughout the Gulf Coast region. Over time our firm grew and so did our office locations. Today, Lewis has a national client base with offices in Alabama and Tennessee. Recently, Lewis was ranked among the “Top 15 Most Creative Firms in America” by Graphis, and in the last several years, has won Best of Show Awards in every market and category in which we serve. We remain privately owned, and we hold three simple tenets: work hard, have fun, and make a difference for clients we genuinely like. Members of: American Association of Advertising Agencies (4As) Public Relations Society of America (PRSA) The ONE Club New York ICOM (Global Agency Network)",,,$0,$0,$0,$0,541810,Advertising Agencies,"['512110', '541430', '541511', '541613', '541830', '541860', '541890', '541910', '541921']","Brand Planning & Strategy Development, Research & Analytics, Media Planning & Placement, Digital Strategy, Content Development, Search Engine Marketing (SEM), Search Engine Optimization (SEO), Social Media Strategy, Video Development, Brand Identity & Logo Design, Website Design & Development, Collateral and Print Production, Direct Marketing, Email Marketing, Advertising, Package Design, Photography",,,No,,,,,"Name: Jay Weber
+Contract:
+Start:
+End:
+Value:
+Contact: Jay Weber
+Phone: 251-422-0104
+
+
+Name: Neal Wade
+Contract:
+Start:
+End:
+Value:
+Contact: Neal Wade
+Phone: 205-348-7881"
+P2453362,06/06/2020,Active,MTH Group LLC,117223726,1492 Satchel Paige Dr,,Mobile,AL,36606-2540,"1492 Satchel Paige Dr,Mobile,AL,36606-2540",601-606-9497,,raven.brooks@hilton.com,http//trumobile.trubyhilton.com,http://trumobile.trubyhilton.com,Raven Brooks,097,01,5160,8LHT6,2019,Yes,,LLC,"Other Minority Owned, Self-Certified Small Disadvantaged Business, Subcontinent Asian American","1. MTH Group LLC, Owner",ALABAMA DISTRICT OFFICE (SBA office code 0459),,,,No,,,No,No,,"Lodging, Hotel Rooms, Accomodations",,Service (100 %),$0,$0,$0,$0,721110,Hotels (except Casino Hotels) and Motels,,"Lodging, Hotel, Sleeping Rooms, Housing",,,No,,,,,
+P1657585,07/13/2020,Active,"Merrill P Thomas Co, Inc.",861369379,3280 Dauphin St Ste C104,,MOBILE,AL,36606-4050,"3280 Dauphin St Ste C104,MOBILE,AL,36606-4050",251-476-0808,251-476-0829,ANGIE@MERRILLPTHOMASCO.COM,,,ANGIE ALLEN,097,01,5160,71HV1,1992,No,,,,,ALABAMA DISTRICT OFFICE (SBA office code 0459),,,,No,,,No,No,,,,,,,,,531210,Offices of Real Estate Agents and Brokers,,,,,,,,,,
+P0503289,08/19/2020,Active,WATERMARK DESIGN GROUP LLC,096592535,2970 COTTAGE HILL RD STE 200,,MOBILE,AL,36606-4773,"2970 COTTAGE HILL RD STE 200,MOBILE,AL,36606-4773",251-665-5439,251-666-6422,Mmanning@thompsonengineering.com,,,Mike Manning,097,01,5160,32LW2,1999,No,,LLC,,,ALABAMA DISTRICT OFFICE (SBA office code 0459),,,,No,,,No,No,,,,,$0,$0,$0,$0,541310,Architectural Services,"['541320', '541410']",,,,,,,,,
+P0725746,07/10/2020,Active,"ORION ENGINEERING, P.C.",106531200,3515 HURRICANE BAY DR,,THEODORE,AL,36582-5251,"3515 HURRICANE BAY DR,THEODORE,AL,36582-5251",251-443-5055,251-443-5052,teresa.mathis@orion-eng.com,http://www.orion-eng.com,,Teresa Mathis,097,01,5160,495F4,2001,Yes,,Subchapter S Corporation,,"1. Charles Busby, P.E., President, CEO
+2. Scott Ritter, P.E., COO
+3. Bret Seiter, Engineering Manager",ALABAMA DISTRICT OFFICE (SBA office code 0459),,,,No,,,No,No,,"Engineering Disciplines include: Process, Mechanical, Civil, Structural, Electrical and Marine with an emphasis in the areas of refinery, petrochemical, shipbuilding and manufacturing/industrial. Project & Construction Mgmt and 3D Laser capabilities.","AFT Arrow, ASPEN, MEP-3D, AutoCAD, AutoCAD 3D, CADworx, Carrier E20, AFT ChemPak Database, Bentley Microstation, Caesar, ChemCad, Conversion, Deltek Vision, DIPPR/DIADEM, NavisWorks, PHAWorks, PipeDrop, RISA 3D, Staad III, Fathom, VESSELPAK","Construction (10 %)
+Service (90 %)","$2,000,000","$8,000,000",$0,$0,541330,"Engineering Services
+General $15.00m Small Business Size Standard: [Yes]
+Special $38.50m Military and Aerospace Equipment and Military Weapons: [Yes]
+Special $38.50m Contracts and Subcontracts for Engineering Services Awarded Under the National Energy Policy Act of 1992: [Yes]
+Special $38.50m Marine Engineering and Naval Architecture: [Yes] (4)","['236210', '237120', '237990', '541340', '541370', '541420', '541611', '541614', '541690', '562910']","Process Engineer, Mechanical Engineer, Civil Engineer, Structural Engineer, Electrical Engineer, Instrumentation Eng, Automation, Instrument Design, Piping Design, Process Controls, Project Management, Const. Management, FEL Packages, Survey, Drafting, 3D Laser",,,No,,,,,"Name: AZ Chemical – Magnolia Project
+Contract: AZ Chemical
+Start:
+End: 10/01/2009
+Value: $18,000,000
+Contact:
+Phone:
+
+
+Name: Shell Chemical – Diesel Hydro Treating Project
+Contract: Shell Chemical
+Start:
+End: 04/01/2010
+Value: $18,000,000
+Contact:
+Phone:"
+P0881515,09/26/2020,Active,"NWE, LLC",788616568,"14 South Church St, Third Floor",,Fairhope,AL,36532-2306,"14 South Church St, Third Floor,Fairhope,AL,36532-2306",251-338-1176,,DAVIDN@NWE-LLC.COM,www.nwe-llc.com,,DAVID A NICOLSON,003,01,5160,4TM04,2005,No,,LLC,,,ALABAMA DISTRICT OFFICE (SBA office code 0459),,,,No,,,No,No,,,,,$0,$0,$0,$0,541330,"Engineering Services
+General $15.00m Small Business Size Standard: [Yes]
+Special $38.50m Military and Aerospace Equipment and Military Weapons: [Yes]
+Special $38.50m Contracts and Subcontracts for Engineering Services Awarded Under the National Energy Policy Act of 1992: [Yes]
+Special $38.50m Marine Engineering and Naval Architecture: [Yes] (4)",['336611'],"COST ESTIMATING, NEW CONSTRUCTION, REPAIR SHIPBUILDING, MARINE, BARGES, TOWBOATS, FERRY",,,,,,,,
+P2225816,06/25/2020,Active,Sound Associates Inc,139115948,5675 Rabbit Creek Dr,,Theodore,AL,36582-2543,"5675 Rabbit Creek Dr,Theodore,AL,36582-2543",251-455-0613,251-443-8724,chuck.soundassoc@gmail.com,www.soundassoc.com,,Charles C Johnson,097,01,5160,7XHA2,1982,Yes,,,,,ALABAMA DISTRICT OFFICE (SBA office code 0459),,,,No,,,No,No,,,,,$0,$0,$0,$0,711320,"Promoters of Performing Arts, Sports, and Similar Events without Facilities",,"Sound System, Sound Set up",,,,,,,,
+P0294558,10/08/2020,Active,"G. M. J. Machine Company, Inc.",056918733,251 STATE LN RD S,,Wilmer,AL,36587-7051,"251 STATE LN RD S,Wilmer,AL,36587-7051",251-649-8287,251-649-8289,JOEL@GMJMACHIINE.COM,https://www.gmjmachine.com,https://www.gmjmachine.com,JOEL K PARDEN,097,01,5160,8T119,1981,Yes,,,,"1. Joel K Parden, President
+2. Greg Parden, Vice President",ALABAMA DISTRICT OFFICE (SBA office code 0459),,,,No,,,No,No,,,,,$0,$0,$0,$0,332710,Machine Shops,"['332313', '332322', '332510', '332613', '332721', '332722', '332993', '332999', '333132', '333514', '334419', '336330', '336390', '336412', '336413', '336414', '336419', '336992', '336999', '339999']",GMJ is a precision parts manufacturing company.,,,,,,,,
+P0664179,08/11/2020,Active,"Facilities Resource Group, Inc.",179619023,6915 Spanish Fort Blvd,,Spanish Fort,AL,36527-5302,"6915 Spanish Fort Blvd,Spanish Fort,AL,36527-5302",251-626-3048,251-626-7082,rgentry@frginteriors.com,www.frginteriors.com,https://www.frginteriors.com,ROBIN GENTRY,003,01,5160,431B5,2005,Yes,,Subchapter S Corporation,"Women-Owned Small Business, Woman Owned","1. Nancy Gentry, President
+2. Robin Gentry, Vice President",ALABAMA DISTRICT OFFICE (SBA office code 0459),,,,No,,,No,No,,"GSA Furniture Seller, Installation, Interior Design, Re-configuration. Knoll dealer",,Service (100 %),$0,$0,$0,$0,337214,Office Furniture (except Wood) Manufacturing,"['337215', '442110', '484210', '493110', '541340', '541410', '541420']","Contract Furniture, Installation, Interior design, desk, chairs, lab","ISO-9000 Series
+ANSI/ASQC Z1.4
+MIL-STD-45662A
+MIL-Q-9858
+ISO 10012-1",,,"Distributor/Agent, Retailer, Service(s)",Canada; Germany; Italy; Japan; United Kingdom,"Direct export sales, Distributor/Importer, Overseas retailers",Export Furniture to be installed overseas,"Name: Facilities Resource Group, Inc.
+Contract:
+Start:
+End:
+Value:
+Contact:
+Phone: 251-626-3048"
+P0386246,08/16/2020,Active,"Walter, David",929873602,22605 Andrews Ln,,Orange Beach,AL,36561-8803,"22605 Andrews Ln,Orange Beach,AL,36561-8803",251-979-2200,251-967-2022,reefmaker@gulftel.com,http://www.reefmaker.net,http://www.reefmaker.net,DAVID M WALTER,003,01,5160,1LDR2,1968,No,,,"Service-Disabled Veteran, Veteran","1. David Walter, 100% Owner",ALABAMA DISTRICT OFFICE (SBA office code 0459),,,,No,,,No,No,,Artificial reef builder Tugboat Services Salvage Services,"114' vessel, 125 tons cargo cap., 20 ton crane, push or tow capabilities","Manufacturing (50 %)
+Service (50 %)","$10,000,000","$10,000,000","$10,000,000","$10,000,000",327390,Other Concrete Product Manufacturing,"['237990', '238990', '483211', '488210', '532411', '541620', '561990', '562910']","Artificial Reef, Reef, Reef Restoration",,,,"Manufacturer, Distributor/Agent, Service(s), Consultant","Aruba; Argentina; Australia; Bermuda; Bahamas, The; Belize; Solomon Islands; Brazil; Canada; Chile; Cayman Islands; Costa Rica; Dominican Republic; Ecuador; El Salvador; Guatemala; Guinea; Haiti; Honduras; India; Israel; Italy; Japan; Jamaica; Mexico; New Zealand; Peru; Panama; Papua New Guinea; Philippines; St. Kitts and Nevis; South Africa; Spain; St. Lucia; United Arab Emirates; Thailand; Taiwan; United Kingdom; St. Vincent and the Grenadines; Venezuela; British Virgin Islands; Vietnam; Yemen","Direct export sales, Distributor/Importer, Licensing, Franchising, Wholly owned subsidiaries/branches, Alliances",Expand my business,"Name: State of Alabama
+Contract: Artificial Reefs
+Start: 04/01/2013
+End: 07/15/2013
+Value: 274,000
+Contact: 5 MR -436
+Phone: 251-968-7576
+
+
+Name: MoBay
+Contract: Remove Platform
+Start: 06/11/2014
+End: 06/11/2015
+Value: 1,378,000
+Contact: Tore Nelson
+Phone: 404-217-5055
+
+
+Name: Miltary sealift Command
+Contract: N00033-01-C-1005
+Start: 04/06/2001
+End: 05/30/2001
+Value: $200,000
+Contact: Achille Broennimann CPCM
+Phone: 202-685-5952
+
+
+Name: Miltary Sealift Command
+Contract: N00033-01T-0001
+Start: 07/01/2001
+End: 08/05/2001
+Value: $31,000
+Contact: Achille Broennimann CPCM
+Phone: 202-685-5952
+
+
+Name: Florida Fish & Wildlife Conservation Commission
+Contract: FWCC-02097
+Start: 12/03/2002
+End: 06/30/2003
+Value: $183,000
+Contact: Jon Dodril
+Phone: 850-922-4340"
+P0610756,11/27/2020,Active,"IDEACOM OF THE GULF COAST, INC.",555909027,26376 POLLARD RD,,DAPHNE,AL,36526-4229,"26376 POLLARD RD,DAPHNE,AL,36526-4229",251-626-1313,251-626-1370,krobb@idgc.us,,,Kelsia Robb,003,01,5160,01HW6,1991,Yes,,Subchapter S Corporation,,,ALABAMA DISTRICT OFFICE (SBA office code 0459),,,,No,,,No,No,,,,,,,,,238210,Electrical Contractors and Other Wiring Installation Contractors,['238990'],,,,,,,,,
+P2470429,07/15/2020,Active,"Basestar, Inc",117534012,7310 Bellingrath Rd,,Theodore,AL,36582-2222,"7310 Bellingrath Rd,Theodore,AL,36582-2222",251-680-2574,,nicole@basestarinc.com,www.basestarinc.com,,nicole faris,097,01,5160,8LVY3,2020,No,,,"Self-Certified Small Disadvantaged Business, Women-Owned Small Business, Woman Owned","1. Nicole Faris, CEO",ALABAMA DISTRICT OFFICE (SBA office code 0459),,,,No,,,Yes,No,Other Certifications,,,,$0,$0,$0,$0,561312,Executive Search Services,"['425120', '561311', '624230', '812990']","Recruiting Firm specializing in disaster response, engineering, and all other professional services.",,,No,,,,,
+P2386988,12/01/2020,Active,"PEEPLES, MARIO",117130322,122 MICHAEL DONALD AVE,,MOBILE,AL,36604-2719,"122 MICHAEL DONALD AVE,MOBILE,AL,36604-2719",251-525-5196,,mario.a.peeples@gmail.com,,,Mario Peeples,097,01,5160,8CCC2,2018,No,,,"Black American, Other Minority Owned",,ALABAMA DISTRICT OFFICE (SBA office code 0459),,,,No,,,No,No,,,,,,,,,561790,Other Services to Buildings and Dwellings,"['561720', '561740', '721310', '811191', '811192', '813990', '814110']",,,,,,,,,
